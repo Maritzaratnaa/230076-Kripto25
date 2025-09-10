@@ -8,10 +8,11 @@ Program ini adalah implementasi algoritma Hill Cipher dengan ukuran matriks kunc
 
 ### 1. Menu Utama
 Saat dijalankan program akan menampilkan menu pilihan:
-1. Enkripsi
-2. Dekripsi
-3. Mencari kunci
-0. Keluar
+- (1) Enkripsi
+- (2) Dekripsi
+- (3) Mencari kunci
+- (0) Keluar
+
 Pengguna memasukkan angka yang sesuai dengan pilihan.
 
 ---
